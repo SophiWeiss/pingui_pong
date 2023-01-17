@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pengui_pong/static/css/main.d473a4e5.css",
+    "main.js": "/pengui_pong/static/js/main.3ede5dcb.js",
+    "index.html": "/pengui_pong/index.html",
+    "main.d473a4e5.css.map": "/pengui_pong/static/css/main.d473a4e5.css.map",
+    "main.3ede5dcb.js.map": "/pengui_pong/static/js/main.3ede5dcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d473a4e5.css",
+    "static/js/main.3ede5dcb.js"
+  ]
+}
